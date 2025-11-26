@@ -1,16 +1,16 @@
 {
   "products": [
     {
-      "title": "Produto de Teste",
+      "isTrusted": true,
       "id": "1"
     },
     {
-      "title": "Moisés Júnior",
+      "isTrusted": true,
       "id": "9f1c"
     },
     {
-      "id": "fded",
-      "title": "Henrique"
+      "title": "Henrique",
+      "id": "fded"
     },
     {
       "id": "901e",
@@ -31,6 +31,10 @@
     {
       "id": "b7f9",
       "title": ""
+    },
+    {
+      "id": "ca8f",
+      "title": "Moisés"
     }
   ]
 }

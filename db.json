@@ -1,24 +1,3 @@
 {
-  "products": [
-    {
-      "id": "710a",
-      "title": "Camiseta"
-    },
-    {
-      "id": "e3ba",
-      "title": "Blusa"
-    },
-    {
-      "id": "d4de",
-      "title": "Moletom"
-    },
-    {
-      "id": "ca8f",
-      "title": "Moisés"
-    },
-    {
-      "id": "5d5f",
-      "title": "Teste"
-    }
-  ]
+  "products": []
 }

@@ -1,14 +1,6 @@
 {
   "products": [
     {
-      "isTrusted": true,
-      "id": "1"
-    },
-    {
-      "isTrusted": true,
-      "id": "9f1c"
-    },
-    {
       "title": "Henrique",
       "id": "fded"
     },
@@ -29,12 +21,12 @@
       "title": "Moletom"
     },
     {
-      "id": "b7f9",
-      "title": ""
-    },
-    {
       "id": "ca8f",
       "title": "Moisés"
+    },
+    {
+      "id": "5d5f",
+      "title": "Teste"
     }
   ]
 }
